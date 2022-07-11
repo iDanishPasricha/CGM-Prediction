@@ -15,17 +15,17 @@ a. Auto regression based modeling of CGM
    iii) Algorithm implementation
    iv) Training and Testing accuracy
 b. Model based meal detection
-   i) Algorithm development, HYMN based (ask IMPACT Lab for code)
+   i) Algorithm development, RNN GRU 
    ii) Algorithm Instantiation
    iii) Algorithm implementation
    iv) Training and Testing accuracy
 c. Kalman Filter based meal detection
-    i) Algorithm development (Ask IMPACT Lab for algorithm)
+    i) Algorithm development 
     ii) Algorithm Instantiation
     iii) Algorithm implementation
     iv) Training and Testing accuracy
 d. RNN based meal detection
-    i) Algorithm development (Use Tensor Flow)
+    i) Algorithm development (Use Tensor Flow) -->RNN LSTM
     ii) Algorithm Instantiation
     iii) Algorithm implementation
     iv) Training and Testing accuracy
